@@ -1,0 +1,16 @@
+{
+  "name": "ext-cgi-fs",
+  "version": "0.0.3",
+  "description": "File system CGI for ExtJS AJAX proxy.",
+  "main": "ext-cgi-fs.js",
+  "keywords": [
+    "ExtJS",
+    "CGI",
+    "fs"
+  ],
+  "dependencies": {
+    "node-uuid": "~1.4.7"
+  },
+  "author": "Jungle Software",
+  "license": "ISC"
+}
